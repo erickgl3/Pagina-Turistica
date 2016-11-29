@@ -1,0 +1,14 @@
+Turisticos
+- TAXI
+- Aeropuerto: Ida a traer al cliente al aeropuerto
+- Viajes expresos: Individual o grupo
+- Tour Turisticos: Cubriendo rutas turisticas como rutas artesanales, volcanes, entre otros
+- Paquetes Turisticos: Todo incluido (Tranporte, hospedage, visitas a lugares turisticos), Guias biligues
+- Reserva de Hoteles: Servicio de hoteles a extrangeros
+
+Empresarial
+- TAXI
+- Transporte a empleados: Movimientos de personal a realizar movimientos de trabajo fuera de la empresa
+- Transporte de fin de labores: Tranposte para personal al finalizar labores y seran transportados a sus hogares
+- Transporte para organiar paseos o eventos a realizar fuera del lugar de trabajo
+- Servicio de mensajeria: Llevar documentos o materiales de la empresa a otros lugares.
